@@ -2,6 +2,12 @@
 
 O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
 
+* [1. Como está o mercado de X na Irlanda/Dublin?](#1-como-esta-o-mercado-de-x-na-irlanda-dublin)
+* [2. Preciso saber Inglês ou ter fluência?](#2-preciso-saber-ingles-ou-ter-fluencia)
+* [3. Preciso ser formado em TI? ](#3-preciso-ser-formado-em-ti)
+* [4. Custo de vida na Irlanda é barato?](#4-custo-de-vida-na-irlanda-e-barato)
+* [5. Quero ir para trabalhar, como faço? Precisa de visto?](#5-quero-ir-para-trabalhar-como-faco-precisa-de-visto)
+
 ## 1. Como está o mercado de X na Irlanda/Dublin? 
 
 É difícil saber pois a maioria no grupo é de TI, como você, e não Head Hunter. Pesquise, LinkedIn Jobs principalmente, vagas que você se encaixa, baseado no número de vagas dá para se ter uma noção de como está o mercado que você procura. Deixe alertas no App do LinkedIn Jobs com sua busca, facilita muito. 
