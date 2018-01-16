@@ -1,20 +1,20 @@
-#LEIA ANTES DE PERGUNTAR: 
+# LEIA ANTES DE PERGUNTAR: 
 
 O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de informações, vagas e dúvidas gerais. Dúvidas genéricas, segue o roteiro abaixo:
 
-####1. Como está o mercado de X na Irlanda/Dublin? 
+#### 1. Como está o mercado de X na Irlanda/Dublin? 
 
 É difícil saber pois a maioria no grupo é de TI, como você, e não Head Hunter. Pesquise, LinkedIn Jobs principalmente, vagas que você se encaixa, baseado no número de vagas dá para se ter uma noção de como está o mercado que você procura. Deixe alertas no App do LinkedIn Jobs com sua busca, facilita muito. 
 
-####2. Preciso saber Inglês ou ter fluência?
+#### 2. Preciso saber Inglês ou ter fluência?
 
 Aqui a língua base é o Inglês então o mínimo é inglês intermediário com sua parte técnica afiada. Tem boas vagas e nem sempre todos são fluentes, desde que todos possam te entender bem, você pode conseguir uma vaga. Gaguejar, errar palavras e não ter fluência é normal, tem oportunidade para essas pessoas desde que entenda e seja entendido.
 
-####3. Preciso ser formado em TI? 
+#### 3. Preciso ser formado em TI? 
 
 Cada caso é cada caso, mas para pedir Critical Skills é preciso sim uma faculdade, então apenas certificados e experiência no geral, podem não ser o suficiente.
 
-####4. Custo de vida na Irlanda é barato?
+#### 4. Custo de vida na Irlanda é barato?
 
 Também depende. Melhor site para comparação é https://www.numbeo.com/cost-of-living/in/Dublin, mas vamos a alguns fatos:
 - Aluguel quarto/flat individual (casal) próximo ao centro, €800-1000, parte mais cara do custo de vida Dublin
@@ -24,7 +24,7 @@ Também depende. Melhor site para comparação é https://www.numbeo.com/cost-of
 
 Lembre-se o salario "mínimo" aqui é €1600 Fulo time e tirando o aluguel, tudo mais pode ser bem economizado.
 
-####5. Quero ir para trabalhar, como faço? Precisa de visto?
+#### 5. Quero ir para trabalhar, como faço? Precisa de visto?
 
 SIM! A Irlanda tem alguns tipos de visto, os mais importantes são, Stamp 1 (Permissão de trabalho), Stamp 2 (Visto de estudante), Stamp 3 (Conjugue de quem tem Stamp 1) e Stamp 4 (quem tem passaporte Europeu).
 Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar em detalhes a nossa área, pois existem dezenas de regras. 
