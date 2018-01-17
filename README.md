@@ -12,12 +12,12 @@ O grupo é focado em responder dúvidas pontuais, pontos de vista, troca de info
 
 Um papo que rolou no grupo foi dicas sobre como se descatar no LinkedIn e rolou várias dicas legais, vou repassar. Grande ajuda do amigo [Armando Affonso](https://www.linkedin.com/in/armandoaffonso/)
 
-* [- Que idioma deixar meu LinkedIn?](#linkedin_1)
-* [- Mentir não é legal em nenhum CV, muito menos LinkedIn.](#linkedin_2)
-* [- Use as palavras chaves para chamar a atenção rápida ao seu CV.](#linkedin_3)
-* [- O que postar para ter relevância](#linkedin_4)
-* [- Outras redes sociais](#linkedin_5)
-* [- O que não escrever no perfil](#linkedin_6)
+* [Que idioma deixar meu LinkedIn?](#linkedin_1)
+* [Mentir não é legal em nenhum CV, muito menos LinkedIn.](#linkedin_2)
+* [Use as palavras chaves para chamar a atenção rápida ao seu CV.](#linkedin_3)
+* [O que postar para ter relevância](#linkedin_4)
+* [Outras redes sociais](#linkedin_5)
+* [O que não escrever no perfil](#linkedin_6)
 
 ## <a name="1"></a>1. Como está o mercado de X na Irlanda/Dublin? 
 
@@ -57,21 +57,21 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 
 # Dicas de uso do LinkedIn - Extra
 
-## <a name="linkedin_1"></a>- Que idioma deixar meu LinkedIn?
+## <a name="linkedin_1"></a>Que idioma deixar meu LinkedIn?
 
 Deixar em inglês, ou na língua que você espera trabalhar. Por exemplo, se quer vaga na Polonia, coloca em inglês porque lá eles aceitam esse idioma. Não coloca língua estranha que você não domina, por exemplo, porque é muito comum ter muita gente de outros lugares. Já fiz processo pra Portugal e Espanha, não rolou no final, mas só deu pra participar porque estava em inglês. Inglês é universal então coloca em inglês. 
 
 Cadastra seu LinkedIn em português na linguagem secundaria, ninguém encontra isso mas caso você precise, está lá atualizado, e se alguém pedir o link, você pode enviar essa versão pro recrutador. Há muitos termos de busca que só existe em inglês então faz tudo em inglês.
 
-## <a name="linkedin_2"></a>- Mentir não é legal em nenhum CV, muito menos LinkedIn.
+## <a name="linkedin_2"></a>Mentir não é legal em nenhum CV, muito menos LinkedIn.
 
 Fale sempre a verdade com relação à datas e cargos. Aonde eu trabalho eles verificam tudo, contratos, carteira de trabalho, então se você inflar seu CV eles podem pegar depois, então mesmo se você não tem nenhum documento, já procura carta de referencia desses clientes ou empresas pra poder provar.
 
-## <a name="linkedin_3"></a>- Use as palavras chaves para chamar a atenção rápida ao seu CV.
+## <a name="linkedin_3"></a>Use as palavras chaves para chamar a atenção rápida ao seu CV.
 
 O rescrutadores, no geral, passam o olho rápido pelo seu CV, mas se eles gostarem, vão ler linha por linha. Tenha certeza que cada trampo seu tenha um histórico. Você tem que falar certinho o começo, meio e fim dos projetos, explicar como foi, quais problemas você resolveu ou soluções relevantes você criou. Cada vez menos eles querem uma pessoa que só é técnica, eles querem gente que resolva problemas, então mesmo que você não tem certeza se faz isso, revise, lembre do histórico e faça uma boa descrição de cada trabalho.
 
-## <a name="linkedin_4"></a>- O que postar para ter relevância
+## <a name="linkedin_4"></a>O que postar para ter relevância
 
 Poste semanalmente conteúdo relevante. Tente escrever sobre um aprendizado ou algo que manja muito, isso faz com que seu perfil apareça mais nas buscas. Não seja guru, mas poste um pouco, tudo em inglês. Peça pra alguém revisar esses textos caso seu inglês seja ruim.
 
@@ -79,11 +79,11 @@ Não participe de correntes, assuntos polêmicos ou coisas em BR, porque aparece
 
 Não adianta ter um monte de conexões ruins. Seu feed fica lotado e você perde oportunidades.
 
-## <a name="linkedin_5"></a>- Outras redes sociais
+## <a name="linkedin_5"></a>Outras redes sociais
 
 Coloquem link do seu GitHub, caso tenham, principalmente se você participa de algum projeto relevante ou tem projetos open source e listem suas experiências como voluntário na área correta. 
 
-## <a name="linkedin_6"></a>- O que não escrever no perfil
+## <a name="linkedin_6"></a>O que não escrever no perfil
 
 Não coloquem frase tosca "Eu ajudo sua empresa a crescer!" Na tagline e jamais coloque "em busca de recolocação". Se você estiver desempregado, tenta começar um trampo pro bono ou parceria mas não coloca nada de autônomo ou freelancer ali na última experience.
 
