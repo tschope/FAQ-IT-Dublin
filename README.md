@@ -36,10 +36,10 @@ Cada caso é cada caso, mas para pedir Critical Skills é preciso sim uma faculd
 Também depende. Melhor site para comparação é https://www.numbeo.com/cost-of-living/in/Dublin, mas vamos a alguns fatos:
 - Aluguel quarto/flat individual (casal) próximo ao centro, €800-1000, parte mais cara do custo de vida Dublin
 - Comida, uns 150-200 por pessoa, comendo bem e curtindo uma cervejinha
-- Transporte é caro, estudante é no máximo uns €40 mês, e acredite, pesa, melhor opção, bike
+- Transporte é caro, estudante é no máximo uns €80 mês, €20 estudante, e acredite, pesa, melhor opção, bike
 - Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, 3, Eir e Vodafone, corra da Lyca
 
-Lembre-se o salario "mínimo" aqui é €1600 Fulo time e tirando o aluguel, tudo mais pode ser bem economizado.
+Lembre-se o salario "mínimo" aqui é €1600 Full time e tirando o aluguel, tudo mais pode ser bem economizado.
 
 ## <a name="5"></a>5. Quero ir para trabalhar, como faço? Precisa de visto?
 
