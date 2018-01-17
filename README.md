@@ -59,36 +59,38 @@ Vou tentar resumir um pouco esses tipos de visto, como consegui-los e vou focar 
 
 ## <a name="linkedin_1"></a>Que idioma deixar meu LinkedIn?
 
-Deixar em inglês, ou na língua que você espera trabalhar. Por exemplo, se quer vaga na Polonia, coloca em inglês porque lá eles aceitam esse idioma. Não coloca língua estranha que você não domina, por exemplo, porque é muito comum ter muita gente de outros lugares. Já fiz processo pra Portugal e Espanha, não rolou no final, mas só deu pra participar porque estava em inglês. Inglês é universal então coloca em inglês. 
+Deixar em inglês, ou na língua que você espera trabalhar. Por exemplo, se quer vaga na Polônia, coloca em inglês porque lá eles aceitam esse idioma. Não coloca língua estranha que você não domina, por exemplo, porque é muito comum ter muita gente de outros lugares. Já fiz processo pra Portugal e Espanha, não rolou no final, mas só deu para participar porque estava em inglês. Inglês é universal então coloca em inglês.
 
-Cadastra seu LinkedIn em português na linguagem secundaria, ninguém encontra isso mas caso você precise, está lá atualizado, e se alguém pedir o link, você pode enviar essa versão pro recrutador. Há muitos termos de busca que só existe em inglês então faz tudo em inglês.
+Cadastra seu LinkedIn em português na linguagem secundaria, ninguém encontra isso mas caso você precise, está lá atualizado, e se alguém pedir o link, você pode enviar essa versão para o recrutador. Há muitos termos de busca que só existe em inglês então faz tudo em inglês.
+
 
 ## <a name="linkedin_2"></a>Mentir não é legal em nenhum CV, muito menos LinkedIn.
 
-Fale sempre a verdade com relação à datas e cargos. Aonde eu trabalho eles verificam tudo, contratos, carteira de trabalho, então se você inflar seu CV eles podem pegar depois, então mesmo se você não tem nenhum documento, já procura carta de referencia desses clientes ou empresas pra poder provar.
+Fale sempre a verdade com relação à datas e cargos. Aonde eu trabalho eles verificam tudo, contratos, carteira de trabalho, então se você inflar seu CV eles podem pegar depois, então mesmo se você não tem nenhum documento, já procura carta de referencia desses clientes ou empresas para poder provar.
 
 ## <a name="linkedin_3"></a>Use as palavras chaves para chamar a atenção rápida ao seu CV.
 
-O rescrutadores, no geral, passam o olho rápido pelo seu CV, mas se eles gostarem, vão ler linha por linha. Tenha certeza que cada trampo seu tenha um histórico. Você tem que falar certinho o começo, meio e fim dos projetos, explicar como foi, quais problemas você resolveu ou soluções relevantes você criou. Cada vez menos eles querem uma pessoa que só é técnica, eles querem gente que resolva problemas, então mesmo que você não tem certeza se faz isso, revise, lembre do histórico e faça uma boa descrição de cada trabalho.
+Os recrutadores, no geral, passam o olho rápido pelo seu CV, mas se eles gostarem, vão ler linha por linha. Tenha certeza que cada trampo seu tenha um histórico. Você tem que falar certinho o começo, meio e fim dos projetos, explicar como foi, quais problemas você resolveu ou soluções relevantes você criou. Cada vez menos eles querem uma pessoa que só é técnica, eles querem gente que resolva problemas, então mesmo que você não tem certeza se faz isso, revise, lembre do histórico e faça uma boa descrição de cada trabalho.
 
 ## <a name="linkedin_4"></a>O que postar para ter relevância
 
-Poste semanalmente conteúdo relevante. Tente escrever sobre um aprendizado ou algo que manja muito, isso faz com que seu perfil apareça mais nas buscas. Não seja guru, mas poste um pouco, tudo em inglês. Peça pra alguém revisar esses textos caso seu inglês seja ruim.
+Poste semanalmente conteúdo relevante. Tente escrever sobre um aprendizado ou algo que manja muito, isso faz com que seu perfil apareça mais nas buscas. Não seja guru, mas poste um pouco, tudo em inglês. Peça para alguém revisar esses textos caso seu inglês seja ruim.
 
 Não participe de correntes, assuntos polêmicos ou coisas em BR, porque aparece no seu histórico e nos feeds. Se você fizer qualquer coisa assim, eles vão ver, então sempre tenha cuidado e curta coisas da sua área.
 
 Não adianta ter um monte de conexões ruins. Seu feed fica lotado e você perde oportunidades.
 
+
 ## <a name="linkedin_5"></a>Outras redes sociais
 
-Coloquem link do seu GitHub, caso tenham, principalmente se você participa de algum projeto relevante ou tem projetos open source e listem suas experiências como voluntário na área correta. 
+Coloquem link do seu GitHub, caso tenham, principalmente se você participa de algum projeto relevante ou tem projetos open source e listem suas experiências como voluntário na área correta.
 
 ## <a name="linkedin_6"></a>O que não escrever no perfil
 
-Não coloquem frase tosca "Eu ajudo sua empresa a crescer!" Na tagline e jamais coloque "em busca de recolocação". Se você estiver desempregado, tenta começar um trampo pro bono ou parceria mas não coloca nada de autônomo ou freelancer ali na última experience.
+Não coloquem frase tosca “Eu ajudo sua empresa a crescer! “ Na tagline e jamais coloque “em busca de recolocação”. Se você estiver desempregado, tenta começar um trampo para o Bono ou parceria, mas não coloca nada de autônomo ou freelance ali na última experiência.
 
 Fazendo isso, colocando um bom resumo na primeira página, já aumenta as views e você vai começar a receber postagens.
 
 Tem outras maneiras ainda se gerar mais valor e contatos usando um site pessoal, outras redes sociais, mas isso é mais complicado e leva tempo. Só criando um bom LinkedIn e um bom site pessoal, uma página só, com seus contatos, ajuda muito.
 
-Isso foi o que (eu)(https://www.linkedin.com/in/armandoaffonso/) fiz e gerou resultados.
+Isso foi o que [eu](https://www.linkedin.com/in/armandoaffonso/) fiz e gerou resultados.
