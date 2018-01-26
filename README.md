@@ -35,9 +35,14 @@ Cada caso é cada caso, mas para pedir Critical Skills é preciso sim uma faculd
 
 Também depende. Melhor site para comparação é https://www.numbeo.com/cost-of-living/in/Dublin, mas vamos a alguns fatos:
 - Aluguel quarto/flat individual (casal) próximo ao centro, €800-1000, parte mais cara do custo de vida Dublin
-- Comida, uns 150-200 por pessoa, comendo bem e curtindo uma cervejinha
+- Comida, uns €150-200/mês por pessoa, comendo bem e curtindo uma cervejinha
+- Valor de um Combo do Mc Donald's é de uns €5-6 (depende o Combo), restaurantes começa em uns €8, mas a média por um bom restaurante, com refri, fica na casa dos €12-15
+- Comida tem sempre os lanches baratos e cozinhar em casa SEMPRE é a opção mais barata
+- Cerveja nos pub's constumam ser a facada, uns €5-6 , mas comprar no mercado pode sair até €1 a lata de 500ml, mas a média normal no mercado é de €2-3 por 500ml de breja
 - Transporte é caro, estudante é no máximo uns €80 mês, €20 estudante, e acredite, pesa, melhor opção, bike
-- Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, 3, Eir e Vodafone, corra da Lyca
+- Celular é barato com planos de €20 mês ilimitado, operadoras a indicar, 3, Eir e Vodafone, corra da Lyca.
+- AGUA - Barato, no geral cobram de 2 em 2 meses uma mereca. Aonde moro, um prédio não cobram agua, só Luz e Gás. Não sei detalhes de valores pois não tenha essa experiencia.
+- LUZ e GÁS - Gás é muito usado aqui para Heater (aquecedor) e Boiler (boiler também tem eletrico). No geral é barato, desde que a conta seja no seu nome. Contas pré pagas são mais cara. Aqui tem DEZENAS de empresas que fazem esse serviço. Mais detalhes sugiro olhar [Switcher IE](https://switcher.ie/). Preço médio por pessoa por mês é de uns €40-50 por mês por pessoa.
 
 Lembre-se o salario "mínimo" aqui é €1600 Full time e tirando o aluguel, tudo mais pode ser bem economizado.
 
